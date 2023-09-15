@@ -1,0 +1,15 @@
+html {
+    background-color: rgb(27, 27, 27);
+}
+#bat1 {
+    margin-left: 400px;
+    margin-right: 400px;
+    padding-bottom: 125px;
+    background-color: firebrick;
+    border-radius: 10px;
+    font-family: Arial, Helvetica, sans-serif;
+    padding-top: 100px;
+}
+#bat2 {
+    text-align: center;
+}
